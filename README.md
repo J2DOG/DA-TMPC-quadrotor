@@ -12,7 +12,7 @@ To run this code, you need to install the following packages:
 
 
 ## you should know
-**drone:**for every flight we use `InitializeDrone` to get struct `drone`.
+**drone:** for every flight we use `InitializeDrone` to get struct `drone`.
 **Controller:** We use class UQRobustMPC to construct the tube MPC controller.
 **Figure:** you can use `figure_disturbances_flag; figure_states_flag;f igure_inputs_flag; figure_path_flag;`
 
