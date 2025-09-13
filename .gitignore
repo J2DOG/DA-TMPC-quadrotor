@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# MATLAB / Simulink autosave files
+*.asv
