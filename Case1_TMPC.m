@@ -15,7 +15,7 @@ figure_inputs_flag = 1;
 figure_path_flag = 0;
 file_save_flag = 0;
 use_directfit = 1; 
-compute_W_S = 1;   % Use predefined W and S or compute from flight data
+compute_W_S = 0;   % Use predefined W and S or compute from flight data
 
 kVal = 1.01e-6;         %Units N * s^2 = kg * m
 mVal = 1;               %Units kg
